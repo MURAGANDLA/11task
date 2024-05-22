@@ -1,0 +1,42 @@
+/* Bordered form */
+form {
+  text-align: center;
+}
+input[type=text], input[type=password] {
+  width: 35%;
+  padding: 12px 20px;
+  text-align: center;
+
+}
+button {
+  background-color: #04AA6D;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 35%;
+}
+button:hover {
+    opacity: 0.8;
+  }
+  .imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+
+  }
+  img.avatar {
+    width: 30%;
+    border-radius: 50%;
+  }
+.container {
+  padding: 16px;
+}
+span.psw {
+  float: right;
+  padding-top: 16px;
+  
+}
+.bgimg {
+    background-color: rgb(150, 147, 8);
+}
